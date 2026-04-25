@@ -1,4 +1,4 @@
-# Windows-11-Debloat-V.Pro-
+# Windows-11-Debloat
 Um script em powershell (.ps1) que remove com segurança aplicativos desnecessários do Windows 11 Pro (futuramente o home, home single lenguage, e education), desativando a telemetria, otimizando o desempenho e ajustando as configurações de privacidade. **Inclui a criação de um ponto de restauração** e uma interface amigável.
 
 **⚠ Este script deve ser executado como administrador.**
