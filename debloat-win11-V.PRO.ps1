@@ -2,7 +2,7 @@
 .SYNOPSIS
     Windows 11 Pro Advanced Debloat Script
     Versão: 1.0
-    Autor: Manus AI
+    Autor: Moysés Voss
     Data: 23/04/2026
 
 .DESCRIPTION
