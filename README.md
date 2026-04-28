@@ -17,7 +17,9 @@ para executar o debloat de forma correta, siga os seguintes passos:
 2) Vá até a pasta onde está o arquivo (`cd "C:\caminho\do\script"`).
 </br>
 3) Execute "`.\debloat.ps1`".
+</br>
    **Importante**: O windows bloqueia scripts .ps1 por padrão, caso isso aconteça, siga os segintes passos:
+   </br>
    1) Verifique `Get-ExecutionPolicy`, caso retorne `Restricted`, rode: `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`.
 
 **Pronto** Selecione a opção melhor para você, e seja feliz, sem o windows consumir muita memória ram e processador.🙂
