@@ -8,7 +8,8 @@ Para rodar é simples e rápido, siga a estes passos:
 
 1) Baixe ou copie o conteúdo do arquivo de sua preferencia e uso, sendo que todas as versões e suportes seguem o padrão: "debloat-win11-V."versão.windows", onde "versão.windows" é caracteriza, por exemplo, como "V.PRO", "V.HOME", "V.EDUCATION".
 </br>
-2) Em sua área de trabalho, ou local de sua preferencia, crie um arquivo nomeado de "debloat.txt", e cole o conteúdo, em seguida, modifique a extenção do arquivo de ".txt" para ".ps1" (executavél do windows powershell).
+2) Faça o download do arquivo diretamente pelo GitHub, caso seu navegdor, ou o windows, bloqueie o download, faça isso:
+  Em sua área de trabalho, ou local de sua preferencia, crie um arquivo nomeado de "debloat.txt", e cole o conteúdo, em seguida, modifique a extenção do arquivo de ".txt" para ".ps1" (executavél do windows powershell).
 
 ## Execução do Arquivo.
 para executar o debloat de forma correta, siga os seguintes passos:
