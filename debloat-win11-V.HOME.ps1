@@ -6,7 +6,7 @@
     Data: 23/04/2026
 
 .DESCRIPTION
-    Este script realiza um debloat seguro no Windows 11 Pro, removendo aplicativos desnecessários,
+    Este script realiza um debloat seguro no Windows 11 Home, removendo aplicativos desnecessários,
     desativando telemetria, otimizando o desempenho e ajustando configurações de privacidade.
     Inclui criação de ponto de restauração e interface colorida.
 
