@@ -1,20 +1,18 @@
 <#
 .SYNOPSIS
     Windows 11 Home Advanced Debloat Script
-
-.VERSION
-    1.0
-
-.AUTHOR
-    Moysés Voss
+    Versão: 1.0
+    Autor: Moysés Voss
+    Data: 23/04/2026
 
 .DESCRIPTION
-    Script de debloat para Windows 11 Home.
-    Remove aplicativos desnecessários, reduz telemetria,
-    aplica otimizações de desempenho e limpa arquivos temporários.
+    Este script realiza um debloat seguro no Windows 11 Pro, removendo aplicativos desnecessários,
+    desativando telemetria, otimizando o desempenho e ajustando configurações de privacidade.
+    Inclui criação de ponto de restauração e interface colorida.
 
 .NOTES
-    Requer privilégios de administrador.
+    Requer privilégios de Administrador.
+    Compatível especificamente com Windows 11 Pro.
 #>
 
 $ErrorActionPreference = "SilentlyContinue"
